@@ -1,0 +1,2 @@
+<?php
+echo 'ERROR_INVALID_ACCESS';
